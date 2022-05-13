@@ -64,6 +64,7 @@ public class App {
         Saruman.displayName();
         Saruman.displaydetails();
 
+        //Round 2
         System.out.println("Round 2 of Warlock VS Wizard\n");
         Merlin.fireStorm(Saruman, Merlin);
         Saruman.iceCone(Merlin, Saruman);
